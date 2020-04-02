@@ -27,5 +27,5 @@ Website:
 1. https://forum.pololu.com/t/multiple-vl53l0x-code-and-wiring-with-distance-reading/12609
 2. http://fritzing.org
 
-If I have forgotten to mention anyone, please forgive and remind me.  (One of my philosophy: Never forget those who helps you.  Always be humble and grateful.)
+If I have forgotten to mention anyone, please forgive and remind me.  (One of my philosophy: Never forget those who helps you.  Always be humble and grateful.) \n
 Here is the link to my schematic drawn with Fritzing.org: http://fritzing.org/projects/automaton
