@@ -28,6 +28,6 @@ Website:
 2. http://fritzing.org
 3. http://www.makecourse.com/
 
-If I have forgotten to mention anyone, please forgive and remind me.  (One of my philosophy: Never forget those who helps you.  Always be humble and grateful.)
+If I have forgotten to mention anyone, please forgive and remind me.  (One of my philosophies: Never forget those who helps you.  Always be humble and grateful.)
 
 Here is the link to my schematic drawn with Fritzing.org: http://fritzing.org/projects/automaton
